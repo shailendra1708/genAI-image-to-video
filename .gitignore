@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Generated files
+outputs/
+uploads/
+
+# FAISS database
+faiss_index.bin
+faiss_meta.pkl
+
+# OS files
+.DS_Store
